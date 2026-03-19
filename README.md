@@ -33,17 +33,6 @@ O foco principal não é interface visual, mas sim **lógica de programação e 
 
 ---
 
-## 📂 Estrutura do Projeto
-
-📦 carrinho-de-compras
-┣ 📂 services
-┃ ┣ 📄 cart.js
-┃ ┗ 📄 item.js
-┣ 📄 index.js
-┗ 📄 README.md
-
----
-
 ## ⚙️ Funcionalidades
 
 - ➕ Adicionar produtos ao carrinho
